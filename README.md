@@ -32,9 +32,8 @@ lenses filing sixteen formal objections at one another over a prompt for an audi
 page. That is the point. The practical version is there for when you need a prompt in a
 minute. The council is for when you want to watch the fight.
 
-It is funny to think that we are approaching a world where asking the best question is what
-gauges success and progress, and school, particularly English class, is the perfect place to
-learn how to ask questions.
+We're approaching a world where the right question matters more than the answer. English
+class, surprisingly, is the best place to learn how to ask those questions.
 
 It is meant to be fun and engaging. Use it as you wish—just keep an eye on the token budget.
 
