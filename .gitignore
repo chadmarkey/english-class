@@ -1,0 +1,44 @@
+# OS metadata
+.DS_Store
+
+# Python bytecode, environments, coverage, and tool caches
+__pycache__/
+*.py[cod]
+/.venv/
+/venv/
+/env/
+/.direnv/
+/.ruff_cache/
+/.pytest_cache/
+/.mypy_cache/
+/.coverage
+/.coverage.*
+/coverage.xml
+/htmlcov/
+/.cache/
+
+# Local secrets
+/.env
+/.env.*
+!/.env.example
+*.pem
+*.key
+
+# Local agent state, workspace metadata, and private planning
+/.claude/
+/.codex/
+/.conductor/
+/.context/
+/.remember/
+/.codebase-memory/
+/tasks/
+
+# Generated council runs and audit output
+/.council/
+/.audit/
+/.release-audit/
+/release-audit/
+/audit-artifacts/
+/.brooks-lint-history.json
+/gitleaks-report.*
+/*.sarif
